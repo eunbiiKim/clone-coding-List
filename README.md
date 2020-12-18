@@ -10,4 +10,4 @@
 * 게시글 변경 이력 로그 제공
  
 ## 포트폴리오 링크
-
+<https://www.notion.so/CoreData-e1aa032f38564ebaa2bb98ab56fe404c>
